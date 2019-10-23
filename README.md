@@ -6,7 +6,13 @@ A curated list of amazingly awesome projects, frameworks, resources and shiny th
 Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT](https://github.com/samelhusseini/awesome-blockly/blob/master/CODE_OF_CONDUCT.md) for details.
 
 
-## Projects built on Blockly
+## Table of Contents
+- [Awesome Blockly](#awesome-blockly)
+    - [Projects built on Blockly](#projects-built-on-blockly)
+    - [Developer Tools](#developer-tools)
+    - [Blockly Samples](#blockly-samples)
+
+### Projects built on Blockly
 
 - [All Can Code](https://www.allcancode.com/)
 - [App Inventor](https://appinventor.mit.edu/)
@@ -32,8 +38,13 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [micro:bit](https://microbit.org)
 - [scriptr;](https://www.scriptr.io)
 
+### Developer tools
 
-## Blockly samples
+- [Blockly Documentation](https://developers.google.com/blockly/guides/overview)
+- [Blockly Demos](https://blockly-demo.appspot.com/static/demos/index.html)
+- [Blockly Developer Tools](https://blockly-demo.appspot.com/static/demos/blockfactory/index.html)
+
+### Blockly samples
 
 - [In Node.js](https://github.com/google/blockly-samples/tree/master/blockly-node)
 - [In a React App](https://github.com/google/blockly-samples/tree/master/blockly-react)
@@ -42,9 +53,3 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [Loaded with RequireJS](https://github.com/google/blockly-samples/tree/master/blockly-requirejs)
 - [Loaded with Webpack](https://github.com/google/blockly-samples/tree/master/blockly-webpack)
 - [Loaded with the UMD build](https://github.com/google/blockly-samples/tree/master/blockly-umd)
-
-## Developer tools
-
-- [Blockly Documentation](https://developers.google.com/blockly/guides/overview)
-- [Blockly Demos](https://blockly-demo.appspot.com/static/demos/index.html)
-- [Blockly Developer Tools](https://blockly-demo.appspot.com/static/demos/blockfactory/index.html)
