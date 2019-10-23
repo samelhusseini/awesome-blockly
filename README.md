@@ -33,6 +33,7 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [OzoBlockly](https://ozoblockly.com/)
 - [PIPER](https://www.playpiper.com/pages/pipercode)
 - [RobotMagic](https://robotmagic.org/)
+- [Scratch 3.0](https://scratch.mit.edu/)
 - [Thymio](https://www.thymio.org/)
 - [Varwin](https://varwin.com/)
 - [Wonder Workshop](https://www.makewonder.com/)
