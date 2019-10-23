@@ -9,6 +9,7 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 ## Table of Contents
 - [Awesome Blockly](#awesome-blockly)
     - [Projects built on Blockly](#projects-built-on-blockly)
+- [Resources](#resources)
     - [Developer Tools](#developer-tools)
     - [Blockly Samples](#blockly-samples)
 
@@ -37,6 +38,9 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [Wonder Workshop](https://www.makewonder.com/)
 - [micro:bit](https://microbit.org)
 - [scriptr;](https://www.scriptr.io)
+
+## Resources
+*Developer resources for building with Blockly.*
 
 ### Developer tools
 
