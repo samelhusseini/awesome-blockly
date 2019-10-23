@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [Code Spells](https://codespells.org/)
 - [Code.org](https://code.org/)
 - [CodeBug](https://www.codebug.org.uk/)
+- [EduBlocks](https://edublocks.org)
 - [GameBlox](https://gameblox.org/)
 - [GameFroot](https://make.gamefroot.com/)
 - [LearnToMod](https://www.learntomod.com/)
