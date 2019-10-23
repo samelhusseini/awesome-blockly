@@ -1,4 +1,4 @@
-# Awesome Blockly [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
+# Awesome Blockly [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
 A curated list of amazingly awesome projects, frameworks, resources and shiny things built on [Blockly](https://github.com/google/blockly).
 
