@@ -1,6 +1,6 @@
 # Awesome Blockly [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
-A curated list of amazingly awesome frameworks, resources and shiny things built on Blockly.
+A curated list of amazingly awesome projects, frameworks, resources and shiny things built on Blockly.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/samelhusseini/awesome-blockly/blob/master/CODE-OF-CONDUCT.md) for details.
