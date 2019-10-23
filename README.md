@@ -46,4 +46,5 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 ## Developer tools
 
 - [Blockly Documentation](https://developers.google.com/blockly/guides/overview)
+- [Blockly Demos](https://blockly-demo.appspot.com/static/demos/index.html)
 - [Blockly Developer Tools](https://blockly-demo.appspot.com/static/demos/blockfactory/index.html)
