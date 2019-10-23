@@ -33,7 +33,7 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [scriptr;](https://www.scriptr.io)
 
 
-## Blockly Samples
+## Blockly samples
 
 - [In Node.js](https://github.com/google/blockly-samples/tree/master/blockly-node)
 - [In a React App](https://github.com/google/blockly-samples/tree/master/blockly-react)
@@ -43,3 +43,6 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [Loaded with Webpack](https://github.com/google/blockly-samples/tree/master/blockly-webpack)
 - [Loaded with the UMD build](https://github.com/google/blockly-samples/tree/master/blockly-umd)
 
+## Developer tools
+
+- [Blockly Developer Tools](https://blockly-demo.appspot.com/static/demos/blockfactory/index.html)
