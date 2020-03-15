@@ -10,6 +10,8 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 - [Awesome Blockly](#awesome-blockly)
     - [Projects built on Blockly](#projects-built-on-blockly)
 - [Resources](#resources)
+    - [Plugins](#plugins)
+    - [Fields](#fields)
     - [Developer Tools](#developer-tools)
     - [Blockly Samples](#blockly-samples)
 
