@@ -44,6 +44,16 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 ## Resources
 *Developer resources for building with Blockly.*
 
+```
+npm install blockly --save
+```
+
+## Plugins
+- [@blockly/plugin-workspace-search](https://www.npmjs.com/package/@blockly/plugin-workspace-search)
+
+## Fields
+- [@blockly/field-date](https://www.npmjs.com/package/@blockly/field-date)
+
 ### Developer tools
 
 - [Blockly Documentation](https://developers.google.com/blockly/guides/overview)
