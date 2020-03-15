@@ -48,10 +48,10 @@ Please see [CONTRIBUTING](https://github.com/samelhusseini/awesome-blockly/blob/
 npm install blockly --save
 ```
 
-## Plugins
+### Plugins
 - [@blockly/plugin-workspace-search](https://www.npmjs.com/package/@blockly/plugin-workspace-search)
 
-## Fields
+### Fields
 - [@blockly/field-date](https://www.npmjs.com/package/@blockly/field-date)
 
 ### Developer tools
